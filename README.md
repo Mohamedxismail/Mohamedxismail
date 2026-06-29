@@ -4,15 +4,22 @@
 
 ### Front-End Developer | Computer Science Student
 
-Building modern, responsive, and scalable web applications with React, Next.js, and TypeScript.
+Building modern, responsive, and scalable web applications with React , Next.js , javascript and TypeScript.
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Always+Learning+and+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+Next.js+%7C+javascript+%75+|TypeScript;Always+Learning+and+Building" />
 </p>
 
 </div>
+<p align="center">
+
+![Front-End](https://img.shields.io/badge/Front--End-Developer-blue)
+![Open to Work](https://img.shields.io/badge/Open%20to-Internships-success)
+
+</p>
 
 ---
+
 
 ## 🚀 About Me
 
@@ -38,7 +45,7 @@ Building modern, responsive, and scalable web applications with React, Next.js, 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass"/>
 </p>
 
-### Libraries & State Management
+### Libraries & Web Technologies
 
 - Redux Toolkit
 - Context API
@@ -47,6 +54,8 @@ Building modern, responsive, and scalable web applications with React, Next.js, 
 - React Hook Form
 - Zod
 - JWT Authentication
+- Cookie-based Authentication
+- REST APIs
 
 ### Tools
 
@@ -63,7 +72,8 @@ Building modern, responsive, and scalable web applications with React, Next.js, 
 A complete student management platform that allows students to:
 
 - Authentication & Authorization
-- Register and Drop Courses
+- Course Registration
+- Add & Drop Courses
 - GPA Calculation
 - Student Dashboard
 - REST API Integration
@@ -75,7 +85,7 @@ A complete student management platform that allows students to:
 
 ### 🛒 E-Commerce
 
-A modern e-commerce application with authentication, shopping cart, product management, and responsive design.
+A modern e-commerce application with authentication, shopping cart, product management , product details , orders details and responsive design.
 
 ---
 
