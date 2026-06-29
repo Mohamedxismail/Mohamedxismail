@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Mohamed Ismail
+# Hi , I'm Mohamed Ismail
 
 ### Front-End Developer | Computer Science Student
 
