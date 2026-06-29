@@ -10,6 +10,7 @@ Building modern, responsive, and scalable web applications with React , Next.js 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+Next.js+%7C+javascript+%75+|TypeScript;Always+Learning+and+Building" />
 </p>
 
+
 </div>
 <p align="center">
 
